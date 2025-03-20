@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bichomanianet.com.br/sitemap.xml
